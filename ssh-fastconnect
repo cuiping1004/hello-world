@@ -1,3 +1,11 @@
+#!/bin/bash
+
+# Owner: cshi002
+# Email: chen.shi@alcatel-lucent.com
+
+# Version:
+# v0.1  cshi002 2014/07/22      init version
+# v0.2  cshi002 2015/03/24      support ignore case for hostname
 
 
 if [ $# -lt 1 ]; then
